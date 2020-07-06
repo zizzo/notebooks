@@ -1,4 +1,2 @@
 plotly
 appmode
-ipywidgets
-jupyter_contrib_nbextensions
